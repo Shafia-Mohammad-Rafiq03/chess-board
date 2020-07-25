@@ -1,0 +1,22 @@
+    body {
+        margin-left: 21%;
+    }
+    
+    table {
+        width: 800px;
+        height: 800px;
+        border: 2px solid black;
+    }
+    
+    td {
+        width: 100px;
+        height: 100px;
+    }
+    
+    #black {
+        background-color: rgb(2, 34, 2);
+    }
+    
+    #white {
+        background-color: #ffffff;
+    }
